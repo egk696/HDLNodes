@@ -1,2 +1,2 @@
 # HDLNodes
-Node graph architecture for hardware design
+Node graph flow for hardware design
